@@ -71,7 +71,7 @@ global field_X
 global field_O
 field_X = set()
 field_O = set()
-print("Начало игры в кркстики-нолики")
+print("Начало игры в крестики-нолики")
 print("реализация Alex")
 input("To start press a key and Enter")
 
